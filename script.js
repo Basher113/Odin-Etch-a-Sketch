@@ -38,10 +38,8 @@ gridSizeButton.addEventListener("click", () => {
         container.innerHTML = ""; // delete the container content (Grid)
         generateGrid(newSize);
     }
-    
+
 })
-
-
 
 
 
